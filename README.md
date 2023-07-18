@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github page.
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ravil Matoušek.
 <p align="left">
-A professinal developer with BlockChain | DApp | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js | MERN | MEAN.
+A senior web front-end developer with 6+ years of commercial experience in Javascript | React.js| Vue.js | Next.js| Typescript | HTML5 | CSS3/SCSS | PHP | Laravel | MySQL | PostgreSQL | MERN | MEAN | BlockChain | DApp | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js.
 </p>
 
 <!--
