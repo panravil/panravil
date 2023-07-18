@@ -28,14 +28,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/panravil">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
-  </a>
-  <a href="https://github.com/panravil">
-    <img alt="Solidity" src="https://github.com/panravil/panravil/blob/main/icons/solidity.png" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/panravil">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   </a>
   <a href="https://github.com/panravil">
@@ -50,9 +42,6 @@ Here are some ideas to get you started:
 </div>
 <div>
   <a href="https://github.com/panravil">
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
-  </a>
-  <a href="https://github.com/panravil">
     <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/panravil">
@@ -60,6 +49,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/panravil">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  </a>
+  <a href="https://github.com/panravil">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   </a>
   <a href="https://github.com/panravil">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
@@ -94,6 +86,14 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/panravil">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/panravil">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/panravil">
+    <img alt="Solidity" src="https://github.com/panravil/panravil/blob/main/icons/solidity.png" />
   </a>
 </div>
 <div>
