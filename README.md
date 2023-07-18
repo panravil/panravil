@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github page.
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ravil Matoušek.
 <p align="left">
-A senior web front-end developer with 6+ years of commercial experience in Javascript | React.js| Vue.js | Next.js| Typescript | HTML5 | CSS3/SCSS | PHP | Laravel | MySQL | PostgreSQL | MERN | MEAN | BlockChain | DApp | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js.
+A senior web front-end developer with 6+ years of commercial experience in Javascript | React.js| Vue.js | Next.js| Typescript | Nodejs | Express.js | HTML5 | CSS3/SCSS | PHP | Laravel | MySQL | MongoDB | PostgreSQL | REST API | GraphQL | AWS | GIT | Docker | BlockChain | DApp | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js.
 </p>
 
 <!--
@@ -57,9 +57,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/panravil">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  </a>
-  <a href="https://github.com/panravil">
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   </a>
   <a href="https://github.com/panravil">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
