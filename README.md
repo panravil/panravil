@@ -121,4 +121,4 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panravil&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panravil&bg_color=e6f9f5&color=1b1843&line=e151d8&point=8a2870&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
