@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github page.
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ravil Matoušek.
 <p align="left">
-A senior web developer with 10+ years of commercial experience in Javascript | React.js | Vue.js | Next.js | Typescript | Nodejs | Express.js | HTML5 | CSS3/SCSS | PHP | Laravel | MySQL | MongoDB | PostgreSQL | REST API | GraphQL | AWS | GIT | Docker | BlockChain | DApp | Smart Contract | NFT | WAX | HIVE | Solidity | Rust | Web3.js.
+Senior Web Developer with 10+ years of commercial experience building scalable, responsive, and data-driven web applications using JavaScript, TypeScript, React.js, Vue.js, Next.js, Node.js, NestJS, PHP, Laravel, Symfony, GraphQL, REST/SOAP APIs, SQL/NoSQL databases, Docker, Kubernetes, Azure/AWS, and modern CI/CD workflows, with additional experience in WordPress, Shopify, and Web3 solutions.
 </p>
 
 <!--
